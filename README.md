@@ -24,11 +24,11 @@ Repository:
 To clone project, run the following command
 
 ```bash
-    git clone https://github.com/karankumbhare90/shopEx.git
+    git clone https://github.com/karankumbhare90/digiwhiz-task.git 
 ```
 After clonning
 ```bash
-    cd shopEx 
+    cd digiwhiz-task
 ```
 
 ### **2. Extract from ZIP file**
@@ -47,7 +47,7 @@ After clonning
 To clone project, run the following command
 
 ```bash
-    git clone https://github.com/karankumbhare90/shopEx.git
+    git clone https://github.com/karankumbhare90/digiwhiz-task.git 
 ```
 
 
