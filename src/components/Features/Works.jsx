@@ -13,7 +13,7 @@ const Works = () => {
   return (
     <section id={"features" || "pages"} className="py-20 bg-gray-50">
       <div className="max-w-8xl mx-auto">
-        <div className="text-center mb-12">
+        <div className="text-center mb-12 sm:px-4 px-3">
           <h2 className="text-3xl font-bold text-primary uppercase mb-5">Featured Works</h2>
           <p className="text-sm max-w-3xl font-[400] mx-auto text-secondary text-center">
             Lorem ipsum dolor sit amet, sed dicunt oporteat cu, laboramus definiebas cum et. Duo id omnis persequeris neglegentur, facete commodo ea usu, possit lucilius sed ei. Esse efficiendi scripserit eos ex. Sea utamur iisque salutatus id.Mel autem animal.

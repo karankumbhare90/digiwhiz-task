@@ -9,7 +9,7 @@ const EmployeeDetails = () => {
             <div className='mb-20'>
                 <table className=''>
                     <thead>
-                        <tr className='grid lg:grid-cols-[1fr_2fr_2fr_2fr_3fr] grid-cols-[.5fr_1fr_1fr_1.2fr_1.5fr]'>
+                        <tr className='grid lg:grid-cols-[1fr_2fr_2fr_2fr_4fr] grid-cols-[.5fr_1fr_1fr_1.2fr_1.5fr]'>
                             <th className='table-heading'>Code</th>
                             <th className='table-heading'>Name</th>
                             <th className='table-heading'>Designation</th>

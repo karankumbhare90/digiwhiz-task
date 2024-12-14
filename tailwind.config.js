@@ -11,6 +11,10 @@ export default {
         'bg-2': '#EBEBEB',
         'bg-3': '#E7E7E7',
         'bg-4': '#F5F5F5'
+      },
+
+      screens: {
+        'sm': { min: "320px", max: "640px" }
       }
     },
   },

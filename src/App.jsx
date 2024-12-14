@@ -10,15 +10,13 @@ import './App.css'
 
 function App() {
   return (
-    <div className="min-h-screen max-w-[100vw]">
-      <div className='min-w-full overflow-x-hidden'>
-        <Navbar />
-        <Banner />
-        <ContactAlert />
-      </div>
-      <div id='#about'>
-        <About />
-      </div>
+    <div className="min-h-screen max-w-[100%]">
+      <Navbar />
+      <Banner />
+      <ContactAlert />
+
+      <About />
+
       <Works />
       <EmployeeDetails />
       <Footer />
