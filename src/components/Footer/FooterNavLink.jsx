@@ -9,7 +9,7 @@ const FooterNavLink = ({ href, label, onClick }) => (
             }
             onClick(href); // Update active link state
         }}
-        className={`relative flex items-center px-1 text-xs font-medium}`}
+        className={`relative flex items-center px-1 text-xs sm:text-[10px] font-medium}`}
         style={{ overflow: 'visible' }}
     >
 

@@ -18,7 +18,7 @@ const Footer = () => {
                 © DIGIWHIZ 2019
             </p>
 
-            <div className="flex lg:space-x-7 sm:space-x-3 items-center justify-center text-white">
+            <div className="flex lg:space-x-7 sm:space-x-2 space-x-3 items-center justify-center text-white">
                 {NAV_ITEMS.map((item) => (
                     <FooterNavLink
                         key={item.label}

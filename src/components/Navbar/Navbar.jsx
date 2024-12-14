@@ -19,7 +19,7 @@ const Navbar = () => {
 
   return (
     <div className='fixed w-full bg-white shadow-md max-h-[100px] z-50'>
-      <div className='sm:flex lg:flex hidden w-full text-secondary text-xs bg-bg-2 lg:px-[185px] px-4 py-2'>
+      <div className='sm:hidden lg:flex md:flex w-full text-secondary text-xs bg-bg-2 lg:px-[185px] px-4 py-2'>
         <div className='flex w-full justify-between items-center'>
           <p>Have any questions ?</p>
           <div className='flex items-center justify-between space-x-4'>
