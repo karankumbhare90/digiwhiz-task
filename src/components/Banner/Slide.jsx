@@ -16,7 +16,7 @@ const Slide = ({ slide, isActive }) => (
           <h2 className="text-3xl md:text-5xl font-bold leading-10">{slide.title}</h2>
           <p className="text-sm md:text-md">{slide.description}</p>
           <button className="bg-accent text-white px-8 py-3 text-md font-semibold transition-colors">
-            Explore Now
+            <a href="#features">Explore Now</a>
           </button>
         </div>
       </div>
